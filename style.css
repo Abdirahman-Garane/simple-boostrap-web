@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+}
+.container {
+  background-color: #ddd;
+}
+.carousel-item img {
+  height: 500px;
+}
+
+.container .slide {
+  height: 500px;
+}
+.c4 img {
+  height: 250px;
+}
